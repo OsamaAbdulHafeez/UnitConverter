@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "Mastering Unit Conversions: A Practical Guide",
+    "image": "/abstract-math-conversion.png",
+    "excerpt": "Unit conversions are essential in daily life, from cooking to engineering. This guide breaks down the process into simple steps so you can convert any unit with confidence.",
+    "content": "Unit conversions are essential in daily life, from cooking to engineering. This guide breaks down the process into simple steps so you can convert any unit with confidence. Start by identifying your source and target units, then determine the conversion factor. For example, converting meters to centimeters uses the factor 100. Multiply the original value by the conversion factor, and always double-check your units to ensure accuracy. For more complex categories like temperature, use the correct formulas (e.g., C to F or K).",
+    "date": "Aug 1, 2025",
+    "tag": "Guides"
+  },
+  {
+    "id": "2",
+    "title": "Metric vs Imperial: Which System Should You Use?",
+    "image": "/metric-vs-imperial.png",
+    "excerpt": "The metric and imperial systems each have unique histories and use-cases. In this article, we explore their differences and help you decide which system fits your needs.",
+    "content": "The metric and imperial systems each have unique histories and use-cases. In this article, we explore their differences and help you decide which system fits your needs. The metric system is decimal-based, making calculations straightforward, while the imperial system is still prevalent in certain regions and industries. Understanding their contexts can help you communicate measurements clearly and avoid costly mistakes in projects.",
+    "date": "Aug 3, 2025",
+    "tag": "Insights"
+  },
+  {
+    "id": "3",
+    "title": "Top 10 Conversion Tips for Students",
+    "image": "/studying-conversions-notebook.png",
+    "excerpt": "Studying science and math often requires accurate unit conversions. Here are ten tried-and-true tips to make conversions easier and faster.",
+    "content": "Studying science and math often requires accurate unit conversions. Here are ten tried-and-true tips to make conversions easier and faster. Create a cheat sheet for common units, memorize key factors like cm to m (100) and g to kg (0.001), and always track your units in each step. Practice with real examples and verify with a converter tool to build confidence.",
+    "date": "Aug 5, 2025",
+    "tag": "Tips"
+  },
+  {
+    "id": "4",
+    "title": "Converting Temperatures the Right Way",
+    "image": "/celsius-fahrenheit-thermometer.png",
+    "excerpt": "Temperature conversions require formulas rather than simple factors. Learn the correct way to convert between Celsius, Fahrenheit, and Kelvin.",
+    "content": "Temperature conversions require formulas rather than simple factors. Learn the correct way to convert between Celsius, Fahrenheit, and Kelvin. For example, to convert Celsius to Fahrenheit, multiply by 9/5 and add 32. To convert Celsius to Kelvin, add 273.15. Remember to round to an appropriate precision for your use-case.",
+    "date": "Aug 6, 2025",
+    "tag": "Temperature"
+  },
+  {
+    "id": "5",
+    "title": "Why Precision Matters in Engineering",
+    "image": "/placeholder-fqv1d.png",
+    "excerpt": "In engineering, small conversion errors can lead to major issues. Discover best practices to ensure accurate and reliable conversions.",
+    "content": "In engineering, small conversion errors can lead to major issues. Discover best practices to ensure accurate and reliable conversions. Always maintain units throughout calculations, apply significant figures properly, and validate results with multiple sources or peer review. Precision is not just about decimals—it’s about process.",
+    "date": "Aug 7, 2025",
+    "tag": "Engineering"
+  },
+  {
+    "id": "6",
+    "title": "Everyday Conversions You Should Know",
+    "image": "/daily-life-conversions.png",
+    "excerpt": "From cooking measurements to travel distances, these everyday conversions can save time and prevent mistakes in routine tasks.",
+    "content": "From cooking measurements to travel distances, these everyday conversions can save time and prevent mistakes in routine tasks. Learn quick conversions for cups to milliliters, miles to kilometers, ounces to grams, and more. With a few mental shortcuts, you can navigate daily life more smoothly.",
+    "date": "Aug 8, 2025",
+    "tag": "Everyday"
+  }
+]
